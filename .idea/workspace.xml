@@ -4,15 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="298ac4dd-3aa5-4a87-9afb-0182143596ff" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Huaian12_18.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo01/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo01/demo.java" afterDir="false" />
+    <list default="true" id="298ac4dd-3aa5-4a87-9afb-0182143596ff" name="变更" comment="default">
+      <change afterPath="$PROJECT_DIR$/src/demo01/ClassTest_arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo01/ClassTest_find.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo01/ClassTest_login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo01/ClassTest_reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo01/ClassTest_total.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo01/ClassTest_upcase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo02/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Huaian12_18.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Huaian12_18.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -52,9 +57,61 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo01.demo" />
+  <component name="RunManager" selected="应用程序.ClassTest_find">
+    <configuration name="ClassTest_arr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo01.ClassTest_arr" />
+      <module name="Huaian12_18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassTest_find" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo01.ClassTest_find" />
+      <module name="Huaian12_18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassTest_reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo01.ClassTest_reverse" />
+      <module name="Huaian12_18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassTest_total" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo01.ClassTest_total" />
+      <module name="Huaian12_18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassTest_upcase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo01.ClassTest_upcase" />
       <module name="Huaian12_18" />
       <extension name="coverage">
         <pattern>
@@ -68,7 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.demo" />
+        <item itemvalue="应用程序.ClassTest_find" />
+        <item itemvalue="应用程序.ClassTest_total" />
+        <item itemvalue="应用程序.ClassTest_reverse" />
+        <item itemvalue="应用程序.ClassTest_arr" />
+        <item itemvalue="应用程序.ClassTest_upcase" />
       </list>
     </recent_temporary>
   </component>
@@ -80,8 +141,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702860212751</updated>
-      <workItem from="1702860213926" duration="3364000" />
+      <workItem from="1702860213926" duration="8926000" />
     </task>
+    <task id="LOCAL-00001" summary="default">
+      <created>1702864220439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702864220439</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,5 +166,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="default" />
+    <option name="LAST_COMMIT_MESSAGE" value="default" />
   </component>
 </project>
