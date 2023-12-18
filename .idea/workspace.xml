@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="298ac4dd-3aa5-4a87-9afb-0182143596ff" name="变更" comment="default">
-      <change afterPath="$PROJECT_DIR$/src/demo01/ClassTest_arr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo01/ClassTest_find.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo01/ClassTest_login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo01/ClassTest_reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo01/ClassTest_total.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo01/ClassTest_upcase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo02/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/HomeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo03/demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo04/demo04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Huaian12_18.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Huaian12_18.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo02/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo02/demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,21 +48,23 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.ClassTest_find">
-    <configuration name="ClassTest_arr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo01.ClassTest_arr" />
+  <component name="RunManager" selected="应用程序.HomeWork">
+    <configuration name="HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.HomeWork" />
       <module name="Huaian12_18" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo01.*" />
+          <option name="PATTERN" value="HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,65 +72,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassTest_find" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo01.ClassTest_find" />
+    <configuration name="Test.ceshi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Huaian12_18" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo01.*" />
+          <option name="PATTERN" value="HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="HomeWork" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork.Test" />
+      <option name="METHOD_NAME" value="ceshi" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassTest_reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo01.ClassTest_reverse" />
+    <configuration name="demo03.getSelectionSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Huaian12_18" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo01.*" />
+          <option name="PATTERN" value="demo03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="demo03" />
+      <option name="MAIN_CLASS_NAME" value="demo03.demo03" />
+      <option name="METHOD_NAME" value="getSelectionSort" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassTest_total" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo01.ClassTest_total" />
+    <configuration name="demo04.binarySearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Huaian12_18" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="demo04" />
+      <option name="MAIN_CLASS_NAME" value="demo04.demo04" />
+      <option name="METHOD_NAME" value="binarySearch" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassTest_upcase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo01.ClassTest_upcase" />
+    <configuration name="demo.StringBufferTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Huaian12_18" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo01.*" />
+          <option name="PATTERN" value="demo02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="demo02" />
+      <option name="MAIN_CLASS_NAME" value="demo02.demo" />
+      <option name="METHOD_NAME" value="StringBufferTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.ClassTest_find" />
-        <item itemvalue="应用程序.ClassTest_total" />
-        <item itemvalue="应用程序.ClassTest_reverse" />
-        <item itemvalue="应用程序.ClassTest_arr" />
-        <item itemvalue="应用程序.ClassTest_upcase" />
+        <item itemvalue="应用程序.HomeWork" />
+        <item itemvalue="JUnit.Test.ceshi" />
+        <item itemvalue="JUnit.demo.StringBufferTest" />
+        <item itemvalue="JUnit.demo04.binarySearch" />
+        <item itemvalue="JUnit.demo03.getSelectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +148,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702860212751</updated>
-      <workItem from="1702860213926" duration="8926000" />
+      <workItem from="1702860213926" duration="29381000" />
     </task>
     <task id="LOCAL-00001" summary="default">
       <created>1702864220439</created>
@@ -150,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702864220439</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="default">
+      <created>1702879643135</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702879643135</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
